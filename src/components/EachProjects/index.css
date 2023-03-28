@@ -1,0 +1,13 @@
+.container-lists {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  margin: 10px;
+  background-color: #f1f5f9;
+  box-shadow: 20px;
+  text-align: center;
+}
+
+.name {
+  color: #475569;
+}

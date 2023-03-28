@@ -1,0 +1,47 @@
+.container-failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-Projects {
+  display: flex;
+}
+
+.each-Projects {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.select-showCase {
+  width: 20%;
+  margin-left: 40px;
+  margin-top: 40px;
+  height: 40px;
+}
+
+.failure-view {
+  width: 500px;
+}
+
+.button-Element {
+  background-color: #328af2;
+  border: none;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #ffffff;
+}
+
+.description {
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.heading-Wrong {
+  color: #475569;
+  font-family: 'Roboto';
+}

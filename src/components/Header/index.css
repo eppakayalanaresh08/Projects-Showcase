@@ -1,0 +1,9 @@
+.container-logo {
+  display: flex;
+  background-color: #f1f5f9;
+}
+
+.logo-Element {
+  width: 200px;
+  margin-left: 30px;
+}
